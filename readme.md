@@ -5,4 +5,4 @@ Double machine learning: https://github.com/rgmmmt4r/Machine_Learning_and_Econom
 PPT for research question: https://github.com/rgmmmt4r/Machine_Learning_and_Econometrics/blob/main/online_news_ppt%20_midterm.pdf  
 PPT for research result: https://github.com/rgmmmt4r/Machine_Learning_and_Econometrics/blob/main/Online%20News%20Ding%20and%20Yen%20Final.pdf  
 DATA: https://github.com/rgmmmt4r/Machine_Learning_and_Econometrics/blob/main/OnlineNewsPopularity_interacted.csv  
-DATA source: https://www.kaggle.com/c/online-news-popularity  
+DATA source:  https://www.kaggle.com/c/online-news-popularity  
